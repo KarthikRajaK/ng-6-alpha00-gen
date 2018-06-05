@@ -1,5 +1,5 @@
 {
-  "name": "ng-6-alpha00-gen1",
+  "name": "ng-6-alpha00-gen",
   "version": "0.2.1",
   "scripts": {
     "build": "gulp build",
