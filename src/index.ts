@@ -11,6 +11,7 @@ export * from './sample.directive';
 export * from './sample.pipe';
 export * from './sample.service';
 export * from './modals/index';
+export * from './helpers/index';
 
 @NgModule({
   imports: [
